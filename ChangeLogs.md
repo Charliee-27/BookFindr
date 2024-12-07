@@ -1,0 +1,1 @@
+Deleted the src/App.css from the master branch i seek to entirely use the Index.css and Tailwind css utility class for this project
